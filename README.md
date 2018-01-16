@@ -17,8 +17,5 @@ https://github.com/chenxiannn/The-Little-Embedded-System/blob/master/ch5-control
 
 相约：[Github](https://github.com/chenxiannn)
 
-[觅知圈](https://www.mizhiquan.com)
-
-觅知圈公众号
-
-![](https://www.mizhiquan.com/static/images/qrcode.jpg)
+嵌入式小书阅读地址：
+[觅知圈博客](https://blog.mizhiquan.com/)
